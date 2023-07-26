@@ -9,3 +9,6 @@ c = a + b;
 
 c = abs(a - b);
 
+//multipication of numbers
+
+c = a * b;

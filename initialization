@@ -12,3 +12,7 @@ c = abs(a - b);
 //multipication of numbers
 
 c = a * b;
+
+//division of numbers
+
+c = a/b;
